@@ -1,0 +1,10 @@
+.searchbar {
+  display: flex;
+}
+
+.searchbar__input {
+  border: 1px solid lightgray;
+  border-right: unset;
+  outline: none;
+  padding-left: 5px;
+}
